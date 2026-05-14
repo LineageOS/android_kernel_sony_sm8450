@@ -16,6 +16,23 @@
       "message": "Verified on pdx223.\n- Enable PowerShare, ensure that the PowerShare tiles react immediately (intended behaviour) without the need to reopen QS to check whether if it\u0027s enabled or not (old behaviour)\n- Verified USB charging and PowerShare can be done at the same time",
       "revId": "a0511a7fed608494155c921d9cced5fd9b3a05db",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32ef5f38_8223494a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 37043
+      },
+      "writtenOn": "2026-05-14T15:07:08Z",
+      "side": 1,
+      "message": "GG",
+      "revId": "a0511a7fed608494155c921d9cced5fd9b3a05db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": [
