@@ -16,6 +16,23 @@
       "message": "To be tested",
       "revId": "21e157578b2ed459a19110360eb19b504177476c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e3499896_6755183a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-07-17T07:29:32Z",
+      "side": 1,
+      "message": "Maybe the Sony stuff causing conflict isn\u0027t needed; will investigate later.",
+      "revId": "21e157578b2ed459a19110360eb19b504177476c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
